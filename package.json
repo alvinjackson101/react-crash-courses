@@ -1,6 +1,6 @@
 
 {
-  "homepage":"https://alvinjackson101.github.io/repository-name"
+  "homepage":"https://alvinjackson101.github.io/react-crash-courses/"
   "scripts":{
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

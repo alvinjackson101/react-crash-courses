@@ -3,8 +3,8 @@
   "homepage":"https://alvinjackson101.github.io/react-crash-courses/"
   "scripts":{
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-   }
+    "deploy": "gh-pages -d build"
+   },
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
